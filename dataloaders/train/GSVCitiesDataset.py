@@ -1,4 +1,3 @@
-# https://github.com/amaralibey/gsv-cities
 
 import pandas as pd
 from pathlib import Path
